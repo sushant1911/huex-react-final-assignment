@@ -1,0 +1,67 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+.body {
+ 
+  text-align: center;
+  min-height:100%;
+  
+}
+.sotingadjust
+{
+  
+  width: 70%;
+  display: inline;
+  
+    
+   
+}
+.serch.imageserch
+{
+  background-color: salmon;
+  top: 231px;
+  left: 1746px;
+  width: 13px;
+  height: 13px;
+  border: 2px solid #FFFFFF;
+  opacity: 1;
+}
+
+.serchadjust{
+
+    display: inline;
+    float: right;
+    margin-right: -30px;
+
+}
+.serchandsort
+{
+  margin-left: 110px;;
+  top: 229px;
+  height: 20px;
+  width: 1660px;
+  text-align: left;
+  font: normal normal 600 20px/24px Montserrat;
+  letter-spacing: 0px;
+  color: #0F1317;
+  opacity: 1;
+  padding-top: 20px;
+}
+.serch{
+  top: 219px;
+  left: 1382px;
+  width: 398px;
+  height: 40px;
+  background: #EFF2FF 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.sort{
+  margin-left: 1085px;
+  top: 219px;
+  left: 1184px;
+  width: 182px;
+  height: 40px;
+  border: 1px solid #767676;
+  border-radius: 4px;
+  opacity: 1;
+
+}

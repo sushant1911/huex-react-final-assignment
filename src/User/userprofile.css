@@ -1,0 +1,132 @@
+.displayName{
+    top: 243px;
+left: 440px;
+width: 85px;
+height: 15px;
+text-align: left;
+font: normal normal medium 12px/15px Montserrat;
+letter-spacing: 0px;
+color: #454545;
+opacity: 1;
+
+}
+.containerclass
+{
+    display: -webkit-inline-box;
+    width: 1764px;
+    height: 1036px;
+    padding-right: 20px;
+   margin-left: 150px;
+}
+.photos
+{
+    top: 222px;
+    left: 140px;
+    width: 260px;
+    height: 209px;
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.details{
+    padding-left: 20px;
+top: 222px;
+left: 416px;
+width: 1364px;
+height: 1036px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+opacity: 1;
+}
+.firstname
+{
+    margin-left: 500px;
+    top: 243px;
+left: 880px;
+width: 67px;
+height: 15px;
+text-align: left;
+font: normal normal medium 12px/15px Montserrat;
+letter-spacing: 0px;
+color: #454545;
+opacity: 1;
+}
+.lastname{
+    margin-left: 350px;
+    top: 243px;
+left: 880px;
+width: 67px;
+height: 15px;
+text-align: left;
+font: normal normal medium 12px/15px Montserrat;
+letter-spacing: 0px;
+color: #454545;
+opacity: 1;
+}
+.textdisplayname
+{
+    top: 277px;
+left: 461px;
+width: 250px;
+height: 20px;
+text-align: left;
+font: normal normal medium 14px/18px Montserrat;
+letter-spacing: 0px;
+color: #848484;
+opacity: 1;
+}
+.textirstname{
+    margin-left: 280px;
+top: 277px;
+width: 250px;
+height: 20px;
+height: 18px;
+text-align: left;
+font: normal normal medium 14px/18px Montserrat;
+letter-spacing: 0px;
+color: #848484;}
+.textlastname{
+    margin-left: 200px;
+opacity: 1;
+top: 277px;
+left: 1320px;
+width: 250px;
+height: 20px;
+text-align: left;
+font: normal normal medium 14px/18px Montserrat;
+letter-spacing: 0px;
+color: #848484;
+opacity: 1;
+}
+.yourself
+{
+    
+    top: 343px;
+left: 438px;
+width: 739px;
+height: 163px;
+background: #F6F8FF 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.classtextbox
+{
+    display: inline-block;
+    
+}
+.textdetails{
+    margin-top: 30px;
+}
+.yourselftext{
+    top: 343px;
+left: 438px;
+width: 739px;
+height: 163px;
+background: #F6F8FF 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.intrestarea{
+    padding-top: 50px ;
+    padding-bottom: 10px;
+}
+.checkbox{
+    padding-left: 5px;
+}
